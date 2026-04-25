@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Hasan 👋
 
-<!--
-**chemist-hfh/chemist-hfh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧪 **Chemistry student** at Rio Salado College​NOTION_TWS[  ]NOTION_TWS​
+💻 Currently learning **Python** for chemistry data analysis​NOTION_TWS[  ]NOTION_TWS​
+📊 Interested in **computational chemistry** and **lab automation**
 
-Here are some ideas to get you started:
+#### What I'm working on
+- 📚 Studying organic chemistry fundamentals
+- 🐍 Building Python scripts for molecular calculations
+- 🔬 Exploring open-source chemistry tools (RDKit, ChemPy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech I'm learning
+- Python, NumPy, Pandas
+- Jupyter Notebooks
+- Git & GitHub
+
+#### Contact
+- 📧 Reach me through GitHub
+
+---
+*Always learning, always curious* 🚀
